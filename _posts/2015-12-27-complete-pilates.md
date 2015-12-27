@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T22:00:09.249Z'
-dateModified: '2015-12-27T21:59:56.878Z'
+datePublished: '2015-12-27T22:07:23.150Z'
+dateModified: '2015-12-27T22:07:01.228Z'
 title: Complete Pilates
 author: []
 authors: []
@@ -22,4 +22,5 @@ url: complete-pilates/index.html
 _type: Article
 
 ---
-Complete Pilates is a new pilates class run by a Chartered Physiotherapist and ideal for those at beginner or intermediate levels.
+# Complete Pilates
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5327bae-f5a3-4bbe-86c5-8c3dd014fd6e.jpg)
